@@ -1,4 +1,4 @@
-# Лабораторна 1
+![image](https://github.com/user-attachments/assets/04e945c4-b0e5-462d-b72e-05a95d5c2985)# Лабораторна 1
 
 ## Команда для запуску
 ```sh
@@ -21,3 +21,13 @@ docker compose up -d
 ![image](https://github.com/user-attachments/assets/0c42f83c-7299-42ab-bad4-d063428b512b)
 
 ## Ці ж фото можна побачити у директорії snapshot 
+
+# Лабораторна робота 3
+### 1. Отримання токена через Postman
+![image](https://github.com/user-attachments/assets/9d4cba20-034b-46bb-a011-e0dda94d92f4)
+
+### 2. Авторизований Get-запит до admin ендпоінт
+![image](https://github.com/user-attachments/assets/4559402b-23a0-4ad1-a645-0bbafb660898)
+
+### 3. Авторизований Get-запит на user ендпоінт
+![image](https://github.com/user-attachments/assets/de8b07ef-8423-4b81-9e14-7629aef6189a)
