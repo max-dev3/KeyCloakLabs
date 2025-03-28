@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/04e945c4-b0e5-462d-b72e-05a95d5c2985)# Лабораторна 1
+![image](https://github.com/user-attachments/assets/776851f2-3aff-48fd-b6a4-08f32a1f560e)![image](https://github.com/user-attachments/assets/04e945c4-b0e5-462d-b72e-05a95d5c2985)# Лабораторна 1
 
 ## Команда для запуску
 ```sh
@@ -31,3 +31,18 @@ docker compose up -d
 
 ### 3. Авторизований Get-запит на user ендпоінт
 ![image](https://github.com/user-attachments/assets/de8b07ef-8423-4b81-9e14-7629aef6189a)
+
+# Лабораторна робота 4
+### 1. Отримання токена для юзера через Postman
+![image](https://github.com/user-attachments/assets/6b4a3ea1-7b97-4201-b20a-28aca57bddaf)
+
+### 2. Авторизований Get-запит на юзер ендпоінт
+![image](https://github.com/user-attachments/assets/9e4e44b5-b94f-4463-a8a1-053a725285b8)
+
+### 3. Отримання токена для адміна через Postman
+![image](https://github.com/user-attachments/assets/4d2cde4b-21f0-40fe-9e26-bdc9286cf5b9)
+
+### 4. Авторизований Get-запит на адмін ендпоінт
+![image](https://github.com/user-attachments/assets/96d15d3e-fbbd-4a9b-8d42-754892d02070)
+
+
