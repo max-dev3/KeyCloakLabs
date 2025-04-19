@@ -32,7 +32,7 @@ docker compose up -d
 ### 3. Авторизований Get-запит на user ендпоінт
 ![image](https://github.com/user-attachments/assets/de8b07ef-8423-4b81-9e14-7629aef6189a)
 
-# Лабораторна робота 4
+![image](https://github.com/user-attachments/assets/722ff9ba-090c-44a8-a09f-b12d7d74cf93)
 ### 1. Отримання токена для юзера через Postman
 ![image](https://github.com/user-attachments/assets/6b4a3ea1-7b97-4201-b20a-28aca57bddaf)
 
@@ -45,4 +45,13 @@ docker compose up -d
 ### 4. Авторизований Get-запит на адмін ендпоінт
 ![image](https://github.com/user-attachments/assets/96d15d3e-fbbd-4a9b-8d42-754892d02070)
 
+# Лабораторна робота 5
+### 1. Налаштування авторизації
+![image](https://github.com/user-attachments/assets/5fedf953-3799-4983-9797-a86832748f61)
+
+### 2. Налаштування токенів 
+![image](https://github.com/user-attachments/assets/e283f37c-21b0-48ea-8966-6c33039e2987)
+
+### 3. Експорт realm Open 
+У файлі keycloak/realm/version01
 
