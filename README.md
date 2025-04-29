@@ -55,3 +55,7 @@ docker compose up -d
 ### 3. Експорт realm Open 
 У файлі keycloak/realm/version01
 
+# Лабораторна робота 6
+### 1. Додавання полів аудиту
+![image](https://github.com/user-attachments/assets/83e60ed8-7327-4e82-ba2a-3444610c913a)
+
